@@ -1,6 +1,5 @@
-# Project Lyrics
-
-Develop an elegant React.js Music Application. 
+# sporty-to-spotify
+A music app that give you a quality that beats expectation
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
 
@@ -133,4 +132,5 @@ Here we are going to focus on 2. Creating a Topical Branch:
 
 8. You have successfully created a pull request. Now wait for mentor approval. Once approved, you can merge the pull request.
 
-#
+
+
